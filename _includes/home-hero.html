@@ -27,6 +27,8 @@
 
           <div class="hero-buttons">
 
+	    <a href="/casos"><button class="btn btn-default btn-lg"><i class="fa fa-pencil fa-lg"></i>Análises de Casos</button></a>
+	    
             {% if site.twitter_username != '' %}
               <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
             {% endif %}
@@ -36,8 +38,11 @@
             {% if site.medium_username != '' %}
               <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
             {% endif %}
+            {% if site.linkedin_url != '' %}
+              <a target="_blank" href="{{ site.linkedin_url }}"><button class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-lg"></i>LinkedIn</button></a>
+            {% endif %}
 
-          </div>
+	  </div>
 
         </div>
 
