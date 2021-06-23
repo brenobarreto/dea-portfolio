@@ -20,7 +20,7 @@ No início de 2021, co-fundei a Fenestra, uma plataforma online de cursos de tec
 
 <hr><br>
 
-### Motivações
+### Motivações e hipóteses
 
 O mercado de tecnologia brasileiro tem um enorme desafio pela frente: atender à demanda crescente por profissionais qualificados. A Fenestra é um projeto pessoal que criei com meu sócio com o objetivo de atendermos a uma fração dessa demanda por qualificação.
 
