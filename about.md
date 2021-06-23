@@ -3,7 +3,10 @@ layout: inner
 title: Sobre
 permalink: /sobre/
 ---
+
 ## Sobre
+
+<br>
 
 Tenho graduação e mestrado em Engenharia Metalúrgica e de Materiais, ambos pela Universidade Federal do Rio de Janeiro (COPPE/UFRJ), e estou concluindo o último ano de doutorado no mesmo curso.
 
