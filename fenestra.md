@@ -71,7 +71,7 @@ Tínhamos consciência de que a simplicidade da ferramenta limitaria nossa evolu
 
 #### Marketing
 
-Dada a limitação dos recursos da empresa, estamos priorizado **marketing orgânico** e **marketing de conteúdo**, produzido internamente, em detrimento de mídia paga em motores de busca e redes sociais. Esta é uma estratégia de longo prazo, mas que avaliamos ser capaz de gerar um aumento consistente de tráfego no site (o que de fato temos observado por meio do Google Analytics). 
+Dada a limitação dos recursos da empresa, estamos priorizando **marketing orgânico** e **marketing de conteúdo**, produzido internamente, em detrimento de mídia paga em motores de busca e redes sociais. Esta é uma estratégia de longo prazo, mas que avaliamos ser capaz de gerar um aumento consistente de tráfego no site (o que de fato temos observado por meio do Google Analytics). 
 
 <br>
 
