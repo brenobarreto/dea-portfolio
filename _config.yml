@@ -99,4 +99,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/sobre', text: 'Sobre' }
+  # - { url: '/sobre', text: 'Sobre' }
