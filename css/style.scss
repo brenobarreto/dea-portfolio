@@ -320,6 +320,25 @@ button.btn, input.btn {
     font-style: italic;
 }
 
+.livup {
+    background-color: #B8274B;
+    color: #fff !important;
+}
+
+.nubank {
+    background-color: #820AD1;
+    color: #fff !important;
+}
+
+.livup:hover {
+    background-color: #B8274B;
+    color: #000 !important;
+}
+
+.nubank:hover {
+    color: #000 !important;
+}
+
 /*--------------------------------------------------------------
 	4.0 Footer
 --------------------------------------------------------------*/

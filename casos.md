@@ -12,8 +12,8 @@ Tenho dedicado parte dos meus estudos a analisar casos de empresas cujos produto
 
 <hr>
 
-- [Liv Up](#liv-up)
-- [Nubank](#nubank)
+<a href="#liv-up"><button class="btn btn-default btn-lg livup">Liv Up</button></a>
+<a href="#nubank"><button class="btn btn-default btn-lg nubank">Nubank</button></a>
 
 <br>
 
