@@ -6,19 +6,19 @@ permalink: /casos
 
 ## Análises de Casos
 
-<br>
+<!-- <br> -->
 
-Tenho dedicado parte dos meus estudos a analisar casos de empresas cujos produtos admiro. Esta página é onde detalho reflexões sobre esses casos.
+<!-- Tenho dedicado parte dos meus estudos a analisar casos de empresas cujos produtos admiro. Esta página é onde detalho reflexões sobre esses casos. -->
 
-<hr>
+<!-- <hr> -->
 
-<a href="#liv-up"><button class="btn btn-default btn-lg livup">Liv Up</button></a>
-<a href="#nubank"><button class="btn btn-default btn-lg nubank">Nubank</button></a>
+<!-- <a href="#liv-up"><button class="btn btn-default btn-lg livup">Liv Up</button></a> -->
+<!-- <a href="#nubank"><button class="btn btn-default btn-lg nubank">Nubank</button></a> -->
 
-<br>
+<!-- <br> -->
 
-### Liv Up
+<!-- ### Liv Up -->
 
-<br>
+<!-- <br> -->
 
-### Nubank
+<!-- ### Nubank -->
